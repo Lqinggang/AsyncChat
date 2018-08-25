@@ -1,0 +1,17 @@
+E:\code\NetWork\AsyncChat\AsyncChat\bin\Debug\AsyncChat.exe.config
+E:\code\NetWork\AsyncChat\AsyncChat\bin\Debug\AsyncChat.exe
+E:\code\NetWork\AsyncChat\AsyncChat\bin\Debug\AsyncChat.pdb
+E:\code\NetWork\AsyncChat\AsyncChat\obj\x86\Debug\AsyncChat.Properties.Resources.resources
+E:\code\NetWork\AsyncChat\AsyncChat\obj\x86\Debug\Service.csproj.GenerateResource.Cache
+E:\code\NetWork\AsyncChat\AsyncChat\obj\x86\Debug\AsyncChat.exe
+E:\code\NetWork\AsyncChat\AsyncChat\obj\x86\Debug\AsyncChat.pdb
+E:\code\NetWork\AsyncChat\AsyncChat\obj\x86\Debug\Service.ServerForm.resources
+E:\code\NetWork\AsyncChat\AsyncChat\obj\x86\Debug\Service.csprojResolveAssemblyReference.cache
+E:\code\NetWork\AsyncChat\Service\bin\Debug\Service.exe.config
+E:\code\NetWork\AsyncChat\Service\bin\Debug\Service.exe
+E:\code\NetWork\AsyncChat\Service\bin\Debug\Service.pdb
+E:\code\NetWork\AsyncChat\Service\obj\x86\Debug\Service.ServerForm.resources
+E:\code\NetWork\AsyncChat\Service\obj\x86\Debug\Service.Properties.Resources.resources
+E:\code\NetWork\AsyncChat\Service\obj\x86\Debug\Service.csproj.GenerateResource.Cache
+E:\code\NetWork\AsyncChat\Service\obj\x86\Debug\Service.exe
+E:\code\NetWork\AsyncChat\Service\obj\x86\Debug\Service.pdb
